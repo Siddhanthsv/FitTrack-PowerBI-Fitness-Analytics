@@ -45,4 +45,4 @@ The goal of the project was to transform raw fitness tracking data into an inter
 
 ## 📷 Dashboard Preview
 
-![FitTrack Dashboard](dashboard-preview.png)
+![FitTrack Dashboard](Dashboard.png)
